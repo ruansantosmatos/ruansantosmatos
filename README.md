@@ -25,5 +25,5 @@
 ![Token](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-Apaixonado por desenvolver soluções tecnológicas, que impactam diretamente no dia a dia dos usuários e empresas.
-Aguardo seu contato para novas soluções e desafios na resolução de seus problemas!
+**Apaixonado por desenvolver soluções tecnológicas, que impactam diretamente no dia a dia dos usuários e empresas.
+Aguardo seu contato para novas soluções e desafios na resolução de seus problemas!**
