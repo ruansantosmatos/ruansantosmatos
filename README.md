@@ -39,8 +39,7 @@ Aguardo seu contato para novas soluções e desafios na resolução de seus entr
 ## 📊 Métricas
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruansantosmatos&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/ruansantosmatos/ruansantosmatos/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 🎮 Commits
-<img src="https://raw.githubusercontent.com/ruansantosmatos/ruansantosmatos/output/snake.svg" alt="Snake animation" />
 
