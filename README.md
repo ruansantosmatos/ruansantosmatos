@@ -37,8 +37,8 @@ Aguardo seu contato para novas soluções e desafios na resolução de seus entr
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 Métricas
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruansantosmatos&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruansantosmatos&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ## 🎮 Commits
