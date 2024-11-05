@@ -4,7 +4,7 @@ Aguardo seu contato para novas soluções e desafios na resolução de seus entr
 
 👩🏻‍💻 **Desenvolvedor Full Stack**<br>
 💻 **Técnico em informática**<br>
-📚 **Estudante de Ciência da Computação**<br>
+📚 **Estudante de Análise e Desenvolvimento de Sistemas**<br>
 🎮 **Amante de jogos**<br>
 
 ## 📳 Contatos
