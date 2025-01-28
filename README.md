@@ -60,12 +60,6 @@ técnicas e pessoais.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />        
 </div>
 
-### 📊 Estáticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruansantosmatos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruansantosmatos&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ### 📊 Contribuições
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruansantosmatos&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
