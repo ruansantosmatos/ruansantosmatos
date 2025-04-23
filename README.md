@@ -1,8 +1,8 @@
 # 🐱‍👤 Ruan Santos Matos
 
-**`Desenvolvedor FullStack`**<br/>
+**`Desenvolvedor Full Stack`**<br/>
 
-Muito prazer, me chamo Ruan Matos, tenho 22 anos e sou natural de Belém do Pará, sou desenvolvedor FullStack a mais de 2 anos e possuo experiência em criar 
+Muito prazer, me chamo Ruan Matos, tenho 22 anos e sou natural de Belém do Pará, sou desenvolvedor Full Stack a mais de 2 anos e possuo experiência em criar 
 soluções digitais incríveis do início ao fim. Estou sempre pronto para enfrentar novos desafios e buscar soluções inovadoras. Formado em técnico em informática, 
 atualmente, encontro-me cursando Análise e Desenvolvimento de Sistemas. Amante de jogos ditais e tecnologia, busco o aperfeiçoamento continuo das minhas habilidades
 técnicas e pessoais.
